@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a998848-2a09-4cd9-b664-2f46f6fcf744" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gDiws8ArDp03IDjgxZ0FXHNlf1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020-08-11-机器学习" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\2020-08-17-机器学习" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.12.Kmeans">
+    <configuration name="12.Kmeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-17-机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.Kmeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7.supplement_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-17-机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PRA-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRA-1/7.supplement_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-17-机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PRA-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRA-1/8.classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.feature_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-17-机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PRA-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRA-1/8.feature_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.regression_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020-08-17-机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PRA-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRA-1/9.regression_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.12.Kmeans" />
+        <item itemvalue="Python.9.regression_tree" />
+        <item itemvalue="Python.8.feature_tree" />
+        <item itemvalue="Python.8.classification" />
+        <item itemvalue="Python.7.supplement_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a998848-2a09-4cd9-b664-2f46f6fcf744" name="Default Changelist" comment="" />
+      <created>1597655804065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597655804065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1101" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597830715947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1101" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597830715947" />
+    <state x="1091" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597831027098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1091" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597831027098" />
+    <state x="1082" y="294" key="FileChooserDialogImpl" timestamp="1600824883825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1082" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600824883825" />
+    <state width="1281" height="221" key="GridCell.Tab.0.bottom" timestamp="1599359778394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599359778394" />
+    <state width="1281" height="221" key="GridCell.Tab.0.center" timestamp="1599359778393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="221" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599359778393" />
+    <state width="1281" height="221" key="GridCell.Tab.0.left" timestamp="1599359778393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="221" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599359778393" />
+    <state width="1281" height="221" key="GridCell.Tab.0.right" timestamp="1599359778393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1281" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599359778393" />
+    <state x="263" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1597736015524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="263" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597736015524" />
+    <state x="704" y="68" width="1093" height="965" key="dock-window-1" timestamp="1598165098822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="68" width="1093" height="965" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1598165098822" />
+    <state x="-10" y="20" width="1072" height="808" key="dock-window-2" timestamp="1597888467921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-10" y="20" width="1072" height="808" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1597888467921" />
+    <state x="-7" y="84" width="1072" height="730" key="dock-window-3" timestamp="1597889988774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="84" width="1072" height="730" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1597889988774" />
+    <state x="0" y="0" width="1072" height="728" key="dock-window-4" timestamp="1597890219655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1072" height="728" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1597890219655" />
+    <state x="-15" y="5" width="1156" height="893" key="dock-window-5" timestamp="1597891549912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-15" y="5" width="1156" height="893" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1597891549912" />
+    <state x="40" y="30" width="1122" height="878" key="dock-window-6" timestamp="1597735298022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="40" y="30" width="1122" height="878" key="dock-window-6/0.0.1920.1040@0.0.1920.1040" timestamp="1597735298022" />
+  </component>
+</project>
